@@ -1,0 +1,7 @@
+PButton	KEYWORD1
+update	KEYWORD2
+addPushEvent	KEYWORD2
+addShortEvent	KEYWORD2
+addLongEvent	KEYWORD2
+addRepeatEvent	KEYWORD2
+resetEvents	KEYWORD2
